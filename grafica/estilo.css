@@ -1,0 +1,64 @@
+body {
+	background-color: #000000;
+	scrollbar-3d-light-color:#000000;
+	scrollbar-arrow-color:#ffffff;
+	scrollbar-base-color:#eeeeee;
+	scrollbar-dark-shadow-color:#000000;
+	scrollbar-face-color:#000000;
+	scrollbar-highlight-color:#eeeeee;
+	scrollbar-shadow-color:#FFFFFF;
+	
+
+}
+
+.titulo1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: #FF0000;
+	text-decoration: underline overline blink;
+	font-style: normal;
+	font-weight: bold;
+}
+.texto1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0099ff;
+	font-style: italic;
+	font-weight: normal;
+}
+.texto2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: blink;
+	font-weight: normal;
+	font-style: italic;
+}
+.menu1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #2AFF00;
+	text-decoration: underline;
+}
+.boby2 {
+	background-color: #CDB17D;
+}
+.texto3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #030003;
+}
+.boby3 {
+	background-color: #000000;
+}
+.textopapito {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #6A3535;
+}
