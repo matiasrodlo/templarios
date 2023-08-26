@@ -6,7 +6,7 @@
 <title>Documento sin t&iacute;tulo</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
-<script>top.location.href="portada.htm"</script>
+<script>top.location.href="index.html"</script>
 
 </head>
 
