@@ -44,8 +44,6 @@ This project was made possible thanks to my uncle Eduardo Astudillo, who introdu
 
 You can view the website at: [Templarios Clan Website](https://matiasrodlo.github.io/templarios/)
 
-![templarios](https://github.com/user-attachments/assets/9522a5bd-df9d-4fa6-b6ae-aa1980747b6b)
-
 ## Note
 
 This project serves as a time capsule of my early programming journey and the RuneScape gaming community of 2008. While the code may reflect the web development practices of that era, it represents an important milestone in my learning path.
